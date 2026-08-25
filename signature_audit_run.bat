@@ -1,0 +1,1 @@
+.\signature_audit.ps1 -Roots "C:\Program Files","C:\Program Files (x86)","C:\Soft" -LogPath "C:\Soft\!AUDIT\Logs\signature_audit.log" -UnsignedOnly
